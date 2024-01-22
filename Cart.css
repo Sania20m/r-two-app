@@ -1,0 +1,19 @@
+/* Cart.css */
+.cart-container {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .cart-header {
+    font-weight: bold;
+  }
+  
+  .cart-content {
+    margin-top: 10px;
+  }
+  
